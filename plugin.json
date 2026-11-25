@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "inku-japanese",
+  "version": "0.1.0",
+  "description": "Look up Japanese vocabulary, save words to flashcard decks, and review with Inku in your AI chat.",
+  "author": {
+    "name": "Inku Japanese"
+  },
+  "homepage": "https://inkujapanese.com/mcp",
+  "repository": "https://github.com/inkujapanese/Inku-skills"
+}
